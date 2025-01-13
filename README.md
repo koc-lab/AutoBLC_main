@@ -1,6 +1,6 @@
 # AutoBLC:
 
-This is the GitHub repository for the paper: E.Koc, İ.Şanlı, E. Alparaslan, A. Koç, **“ AutoBLC: Automatic Detection of Basic Level Categories ”** soon to be submitted. In this study, we aim to automatically identify basic level categories using classical machine learning methods where the features are extracted using word embeddings including W2G, GPT-2 and BERT.
+This is the GitHub repository for the paper: E.Koc, İ.Şanlı, E. Alparaslan, A. Koç, **“ AutoBLC: Automatic Detection of Basic Level Categories ”** soon to be submitted. In this study, we aim to automatically identify basic level categories using classical machine learning methods where the features are extracted using word embeddings including W2G, GPT-2 and BERT. Rest of the code will be available upon publish.
 
 #### Extract Features from BERT and GPT-2 ####
 
